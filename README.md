@@ -9,6 +9,10 @@ Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
 Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
 
+# Phoenix Tutorial
+## "hello, world!"
+This is the first application for the Phoenix Tutorial
+
 ## Learn more
 
 * Official website: https://www.phoenixframework.org/
